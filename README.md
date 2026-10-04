@@ -2,7 +2,7 @@
 
 ## Author
 
-[Jen Planque](https://github.com/jenplanque)
+[Jen Kauppila](https://github.com/jenkauppila)
 
 ---
 
